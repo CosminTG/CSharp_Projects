@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1BQ0CjY06cI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\COSMIN\\source\\repos\\CSharp_Projects\\CSharp_APIS\\Console_CRUD_con_SqLite\\Console CRUD con SqLite\\Console CRUD con SqLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COSMIN\\.nuget\\packages\\microsoft.data.sqlite\\10.0.2\\microsoft.data.sqlite.10.0.2.nupkg.sha512",
+    "C:\\Users\\COSMIN\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.2\\microsoft.data.sqlite.core.10.0.2.nupkg.sha512",
+    "C:\\Users\\COSMIN\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\COSMIN\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\COSMIN\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\COSMIN\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
